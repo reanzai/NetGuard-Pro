@@ -87,7 +87,7 @@ NetGuard Pro offers several advantages over traditional tools like ettercap and 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/netguard-pro.git
+git clone https://github.com/reanzai/NetGuard-Pro.git
 cd netguard-pro
 ```
 
@@ -245,7 +245,7 @@ NetGuard Pro, ettercap ve bettercap gibi geleneksel araçlara göre birçok avan
 
 1. Depoyu klonlayın:
 ```bash
-git clone https://github.com/yourusername/netguard-pro.git
+git clone https://github.com/reanzai/NetGuard-Pro.git
 cd netguard-pro
 ```
 
